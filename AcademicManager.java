@@ -18,7 +18,7 @@ import java.util.Map;
  * Java concepts: ArrayList, HashMap, nested loops, arithmetic,
  *                enhanced for-loop, static methods.
  *
- * Author: [Your Name]
+ * Author: Aritra Chowdhury
  * Course: Programming in Java - BYOP Project
  */
 public class AcademicManager {
