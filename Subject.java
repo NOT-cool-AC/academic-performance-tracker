@@ -5,7 +5,7 @@
  *
  * Demonstrates: Encapsulation, constructors, getters/setters, toString().
  *
- * Author: [Your Name]
+ * Author: Aritra Chowdhury
  * Course: Programming in Java - BYOP Project
  */
 public class Subject {
