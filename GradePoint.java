@@ -5,7 +5,7 @@
  *
  * Each grade stores its display label and the corresponding grade point value.
  *
- * Author: [Your Name]
+ * Author: Aritra Chowdhury
  * Course: Programming in Java - BYOP Project
  */
 public enum GradePoint {
