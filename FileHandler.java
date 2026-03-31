@@ -14,7 +14,7 @@ import java.util.List;
  * Demonstrates: File I/O with BufferedReader/BufferedWriter,
  *               directory listing, try-with-resources.
  *
- * Author: [Your Name]
+ * Author: Aritra Chowdhury
  * Course: Programming in Java - BYOP Project
  */
 public class FileHandler {
