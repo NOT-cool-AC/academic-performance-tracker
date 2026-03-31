@@ -18,7 +18,7 @@ import java.util.Scanner;
  * Demonstrates: Scanner, loops, switch-case, input validation,
  *               calling methods across multiple classes.
  *
- * Author: [Your Name]
+ * Author: Aritra Chowdhury
  * Course: Programming in Java - BYOP Project
  */
 public class Main {
