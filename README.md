@@ -189,9 +189,9 @@ No database or external library required.
 
 ## 🙋 Author
 
-- **Name:** [Your Full Name]
-- **Roll No.:** [Your Roll Number]
-- **Course:** B.Tech CSE — 2nd Year
+- **Name:** Aritra Chowdhury
+- **Reg No.:** 24BAI10023
+- **Course:** B.Tech CSE (AI-ML)  
 - **Subject:** Programming in Java (BYOP)
 
 ---
